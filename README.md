@@ -13,3 +13,6 @@ Languages and Tools:
 JavaScript TypeScript React Git HTML5 CSS3 Redux Node.js Sass Capacitor Ionic Firebase
 
 soon add my projects///....
+
+
+myMobile progect on ANDROID = HealthUapp Posture
