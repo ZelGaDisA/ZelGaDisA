@@ -16,3 +16,9 @@ JavaScript TypeScript React Git HTML5 CSS3 Redux Node.js Sass Capacitor Ionic Fi
 ##My projects
 
 myMobile progect on ANDROID = HealthUapp Posture
+
+GitHub projects:
+1. Social-learn
+2. SeaBattle
+3. Workers-app(to do)
+
