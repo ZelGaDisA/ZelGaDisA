@@ -1,6 +1,6 @@
 ### Hi there 👋, i am Stanislau Kostka, Front-end developer!
 
-Connect with me
+Contact with me
 
 Email: zelasikas@gmail.com
 
@@ -25,3 +25,4 @@ GitHub projects:
 2. SeaBattle
 3. Workers-app(to do)
 
+other projects coming soon...
