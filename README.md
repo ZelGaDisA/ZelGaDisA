@@ -15,10 +15,10 @@ JavaScript TypeScript React Git HTML5 CSS3 Redux Node.js Sass Capacitor Ionic Fi
 
 ##My projects
 
-myMobile progect on ANDROID = HealthUapp Posture
+myMobile comercial progect on ANDROID = HealthUapp Posture, BeerOmeter
 
 
-webProjects = https://healthuapp.com
+webProjects comercial = https://healthuapp.com
 
 GitHub projects:
 1. Social-learn
