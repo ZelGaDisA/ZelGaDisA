@@ -26,3 +26,5 @@ GitHub projects:
 3. Workers-app(to do)
 
 other projects coming soon...
+
+Now worjing on Odoo project in organization
