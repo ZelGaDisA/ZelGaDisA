@@ -10,7 +10,7 @@ Linkedin: https://www.linkedin.com/in/stanislau-kostka-75b99b225
 
 Languages and Tools:
 
-JavaScript TypeScript React Git HTML5 CSS3 Redux Node.js Sass Capacitor Ionic Firebase
+JavaScript TypeScript React Git HTML5 CSS3 Redux Node.js Sass Capacitor Ionic Firebase Joomla MySQL
 
 
 ##My projects
