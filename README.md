@@ -15,7 +15,7 @@ JavaScript TypeScript React Git HTML5 CSS3 Redux Node.js Sass Capacitor Ionic Fi
 
 ##My projects
 
-myMobile comercial progect on ANDROID = HealthUapp Posture, BeerOmeter, EnglishInGames module from app
+myMobile comercial progect on ANDROID = HealthUapp Posture, BeerOmeter
 
 
 webProjects comercial = https://healthuapp.com
