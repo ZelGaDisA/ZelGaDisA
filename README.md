@@ -57,7 +57,7 @@ My experience with JS/TS allows me to develop user interfaces efficiently. I am 
 <p align="center">
   <a href="mailto:zelasikas@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a> &nbsp;&nbsp;
   <a href="https://t.me/Stanislau_Kos" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
-  <a href="https://www.linkedin.com/in/stanislau-kostka-75b99b225" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png)"  width="50" /></a>
+  <a href="https://www.linkedin.com/in/stanislau-kostka-75b99b225" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
 </p>
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
