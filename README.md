@@ -38,18 +38,18 @@ My experience with JS/TS allows me to develop user interfaces efficiently. I am 
   <a href="https://github.com/ZelGaDisA">
     <img align="center"
          height="150em"
-         src="https://github-readme-stats.vercel.app/api?username=nnnLik&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117" />
+         src="https://github-readme-stats.vercel.app/api?username=ZelGaDisA&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117" />
   </a>
     
   <a href="https://github.com/ZelGaDisA">
     <img align="center"
          height="150em"
-         src="https://github-readme-streak-stats.herokuapp.com/?user=nnnLik&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
+         src="https://github-readme-streak-stats.herokuapp.com/?user=ZelGaDisA&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
   </a>
   <a href="https://github.com/ZelGaDisA">
     <img align="center"
          height="150em"
-         src="https://github-readme-stats.vercel.app/api/top-langs?username=nnnLik&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact"
+         src="https://github-readme-stats.vercel.app/api/top-langs?username=ZelGaDisA&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact"
     />
 
 </p>
