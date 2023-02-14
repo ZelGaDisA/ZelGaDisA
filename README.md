@@ -1,4 +1,4 @@
-<a href="https://discord.gg/5dZPVytKnn">
+<a href="https://discord.gg/Zelgadis#4137">
     <h3 align="center">
         <img src="https://i.imgur.com/5XG3bRq.png" width="280"><br>
         Front-end Developer
