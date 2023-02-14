@@ -1,7 +1,7 @@
 <a href="https://discord.gg/5dZPVytKnn">
     <h3 align="center">
         <img src="https://i.imgur.com/5XG3bRq.png" width="280"><br>
-        Back-end Developer
+        Front-end Developer
     </h3>
 </a>
 My experience with JS/TS allows me to develop user interfaces efficiently. I am familiar with popular web frameworks like React, Ionic, Next and have experience with Gulp and Webpack project builders. I have experience with hybrid applications for mobile devices using Capacitor. I am also good at version control with Git and have experience with Agile development methodologies. My goal is to provide quality, scalable solutions that meet today's needs.
