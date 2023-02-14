@@ -30,6 +30,9 @@ My experience with JS/TS allows me to develop user interfaces efficiently. I am 
 
 ![MySQL](https://img.shields.io/badge/-MySQL-1d72b1?style=flat-square&logo=MySQL)
 
+
+
+
 ### 📈 GitHub Activity Graph:
 <p align="center">
   <a href="https://github.com/ZelGaDisA">
