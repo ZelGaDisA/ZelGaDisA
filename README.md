@@ -31,6 +31,7 @@ My experience with JS/TS allows me to develop user interfaces efficiently. I am 
 ![MySQL](https://img.shields.io/badge/-MySQL-1d72b1?style=flat-square&logo=MySQL)
 
 
+<div style='margin-top: 30px'>
 
 
 ### 📈 GitHub Activity Graph:
@@ -53,6 +54,7 @@ My experience with JS/TS allows me to develop user interfaces efficiently. I am 
     />
 
 </p>
+</div>
 
 <p align="center">
   <a href="mailto:zelasikas@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a> &nbsp;&nbsp;
@@ -64,3 +66,4 @@ My experience with JS/TS allows me to develop user interfaces efficiently. I am 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+
