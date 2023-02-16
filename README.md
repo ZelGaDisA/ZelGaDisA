@@ -17,6 +17,7 @@ My experience with JS/TS allows me to develop user interfaces efficiently. I am 
 ![HTML](https://img.shields.io/badge/HTML----orange)
 ![SCSS](https://img.shields.io/badge/CSS-SCSS-success)
 ![React](https://img.shields.io/badge/-React-%2300C7B7?style=flat-square&logo=React)
+![Next](https://img.shields.io/badge/-Next-%2300C7B7?style=flat-square&logo=Next)
 ![Redux](https://img.shields.io/badge/-Redux-FCA121?style=flat-square&logo=Redux)
 ![Capacitor](https://img.shields.io/badge/-Capacitor-%2300C7B7?style=flat-square&logo=Capacitor)
 ![Ionic](https://img.shields.io/badge/-Ionic-%2300C7B7?style=flat-square&logo=Ionic)
