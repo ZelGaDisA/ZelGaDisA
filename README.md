@@ -30,6 +30,7 @@ My experience with JS/TS allows me to develop user interfaces efficiently. I am 
 **Learning**
 
 ![MySQL](https://img.shields.io/badge/-MySQL-1d72b1?style=flat-square&logo=MySQL)
+![Exspress](https://img.shields.io/badge/-Exspress-1d72b1?style=flat-square&logo=Exspress)
 
 
 <div style='margin-top: 30px'>
