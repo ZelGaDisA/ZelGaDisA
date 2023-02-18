@@ -9,7 +9,6 @@ My experience with JS/TS allows me to develop user interfaces efficiently. I am 
 
 <img align="right" alt="GIF" src="https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true" width="500" height="320" />
 
-
 **Front-end**
 
 ![JS](https://img.shields.io/badge/JS-JavaScrypt-red)
@@ -33,9 +32,7 @@ My experience with JS/TS allows me to develop user interfaces efficiently. I am 
 ![MySQL](https://img.shields.io/badge/-MySQL-1d72b1?style=flat-square&logo=MySQL)
 ![Exspress](https://img.shields.io/badge/-Exspress-1d72b1?style=flat-square&logo=Exspress)
 
-
 <div style='margin-top: 30px'>
-
 
 ### 📈 GitHub Activity Graph:
 <p align="center">
@@ -55,7 +52,6 @@ My experience with JS/TS allows me to develop user interfaces efficiently. I am 
          height="150em"
          src="https://github-readme-stats.vercel.app/api/top-langs?username=ZelGaDisA&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact"
     />
-
 </p>
 </div>
 
