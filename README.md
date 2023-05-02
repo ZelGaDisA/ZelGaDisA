@@ -1,6 +1,11 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&gradient&height=100&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=red&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Stanislau;It's+My+Profile!+:%29)](https://git.io/typing-svg)
+
+
 <a href="https://discord.gg/Zelgadis#4137">
     <h3 align="center">
-        <img src="https://i.imgur.com/5XG3bRq.png" width="280"><br>
+<!--         <img src="https://i.imgur.com/5XG3bRq.png" width="280"><br> -->
         Front-end Developer
     </h3>
 </a>
@@ -63,6 +68,6 @@ My experience with JS/TS allows me to develop user interfaces efficiently. I hav
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
