@@ -68,6 +68,6 @@ My experience with JS/TS allows me to develop user interfaces efficiently. I hav
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer"/>
 </p>
 
