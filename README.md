@@ -9,7 +9,7 @@
         Front-end Developer
     </h3>
 </a>
-My experience with JS/TS allows me to develop user interfaces efficiently. I have commercial experience 1.5 year. I am familiar with popular web frameworks like React, Ionic, Next and have experience with Gulp and Webpack project builders. I have experience with hybrid applications for mobile devices using Capacitor. I am also good at version control with Git and have experience with Agile development methodologies. My goal is to provide quality, scalable solutions that meet today's needs.Now learning back end tools and languages.
+My experience with JS/TS allows me to develop user interfaces efficiently. I have commercial experience 1.7 year. I am familiar with popular web frameworks like React, Ionic, Next and have experience with Gulp and Webpack project builders. I have experience with hybrid applications for mobile devices using Capacitor. I am also good at version control with Git and have experience with Agile development methodologies. My goal is to provide quality, scalable solutions that meet today's needs.Now learning back end tools and languages.
 <h2 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> Tech & Tools</h3>
 
 <img align="right" alt="GIF" src="https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true" width="500" height="320" />
