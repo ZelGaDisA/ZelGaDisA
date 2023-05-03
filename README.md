@@ -21,21 +21,29 @@ My experience with JS/TS allows me to develop user interfaces efficiently. I hav
 ![HTML](https://img.shields.io/badge/HTML----orange)
 ![SCSS](https://img.shields.io/badge/CSS-SCSS-success)
 ![React](https://img.shields.io/badge/-React-%2300C7B7?style=flat-square&logo=React)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Next](https://img.shields.io/badge/-Next-%2300C7B7?style=flat-square&logo=Next)
 ![Redux](https://img.shields.io/badge/-Redux-FCA121?style=flat-square&logo=Redux)
 ![Capacitor](https://img.shields.io/badge/-Capacitor-%2300C7B7?style=flat-square&logo=Capacitor)
 ![Ionic](https://img.shields.io/badge/-Ionic-%2300C7B7?style=flat-square&logo=Ionic)
+
+**Back-end**
+
+![MySQL](https://img.shields.io/badge/-MySQL-1d72b1?style=flat-square&logo=MySQL)
+![Exspress](https://img.shields.io/badge/-Exspress-1d72b1?style=flat-square&logo=Exspress)
 
 **Tools**
 
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **Learning**
 
-![MySQL](https://img.shields.io/badge/-MySQL-1d72b1?style=flat-square&logo=MySQL)
-![Exspress](https://img.shields.io/badge/-Exspress-1d72b1?style=flat-square&logo=Exspress)
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 <div style='margin-top: 30px'>
 
