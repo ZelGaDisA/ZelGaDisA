@@ -71,15 +71,6 @@ My experience with JS/TS allows me to develop user interfaces efficiently. I hav
          src="https://github-readme-activity-graph.cyclic.app/graph?username=nnnLik&theme=github-compact"
     />
 </p>
-<!--     <div align="center">
- <p align="right">
- <a href="https://github.com/ZelGaDisA">
-    <img align="center"
-         height="150em"
-         src="https://github-readme-activity-graph.cyclic.app/graph?username=nnnLik&theme=github-compact"
-    />
-</p>
-     </div> -->
 </div>
 
 <p align="center">
