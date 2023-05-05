@@ -50,7 +50,7 @@ My experience with JS/TS allows me to develop user interfaces efficiently. I hav
 ### 📈 GitHub Activity Graph:
 <p align="center">
   <a href="https://github.com/ZelGaDisA">
-    <img align="center"
+    <img align="left"
          height="150em"
          src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZelGaDisA&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117" />
   </a>
