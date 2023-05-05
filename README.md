@@ -66,6 +66,13 @@ My experience with JS/TS allows me to develop user interfaces efficiently. I hav
          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ZelGaDisA&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact"
     />
 </p>
+ <p align="center">
+ <a href="https://github.com/ZelGaDisA">
+    <img align="center"
+         height="150em"
+         src="https://github-readme-activity-graph.cyclic.app/graph?username=nnnLik&theme=github-compact"
+    />
+</p>
 </div>
 
 <p align="center">
