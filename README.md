@@ -72,12 +72,6 @@ My experience with JS/TS allows me to develop user interfaces efficiently. I hav
     />
 </p>
 </div>
-    
-    
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ZelGaDisA}/count.svg" /></p> 
-<br></div>
 
 <p align="center">
   <a href="mailto:zelasikas@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a> &nbsp;&nbsp;
@@ -85,6 +79,11 @@ My experience with JS/TS allows me to develop user interfaces efficiently. I hav
   <a href="https://www.linkedin.com/in/stanislau-kostka-75b99b225" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="50" /></a>
 </p>
 
+ <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ZelGaDisA}/count.svg" /></p> 
+<br></div>
+    
 <h2 align="center"> Thanks for visiting my profile. </h2>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer"/>
