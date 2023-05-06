@@ -72,6 +72,12 @@ My experience with JS/TS allows me to develop user interfaces efficiently. I hav
     />
 </p>
 </div>
+    
+    
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ZelGaDisA}/count.svg" /></p> 
+<br></div>
 
 <p align="center">
   <a href="mailto:zelasikas@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a> &nbsp;&nbsp;
